@@ -1,2 +1,44 @@
-// 
+
 @import "base";
+
+.hat {
+    width: 90px;
+    height: 55px;
+}
+
+ul {
+    float: right;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: inline;
+    margin-right: 80px;
+    font-size: 20px;
+   
+}
+
+h1 {
+    font-size: 60px;
+    text-align:center;
+    font-family: 'Great Vibes', cursive;
+
+
+}
+.container {
+    text-align: center;
+   ul {
+    text-align: center;
+    margin-right: 550px;
+   }
+}
+
+
+.img1 {
+    width: 1920px;
+    height: 700px;
+}
